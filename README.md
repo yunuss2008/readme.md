@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm [Your Name]</h1>
+<h1 align="center">👋 Hi, I'm Yunus Sotiboldiyev</h1>
 
 <p align="center">
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge"></a>
@@ -8,11 +8,11 @@
 
 ## 🔥 About Me
 
-- 🔭 I'm currently working on **[Your Projects]**
+- 🔭 I'm currently working on **Google drive clone**
 - 🌱 Learning **Frontend and Backend technologies**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 🚀 Passionate about **AI/ML, Web Development, and Automation**
-- 📫 Reach me at: **[your.email@example.com]**
+- 📫 Reach me at: **[yunussotiboldiyev45@gmail.com]**
 
 ---
 
@@ -24,11 +24,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 
-### Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-gray?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ### Languages  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
@@ -38,6 +33,7 @@
 ![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -53,6 +49,6 @@
 ## 🔗 Let's Connect
 
 - 🌐 [Portfolio Website](https://yourwebsite.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourhandle)
+- 💼 [LinkedIn]([https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/yunus-sotiboldiyev-328514306/))
 - 🐦 [Twitter](https://twitter.com/yourhandle)
 
